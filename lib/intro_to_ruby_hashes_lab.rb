@@ -5,6 +5,8 @@ end my_hash
   my_hash{
     name:=>'levi'
   }
+  return my_hash
+end
 
 def my_hash
 
