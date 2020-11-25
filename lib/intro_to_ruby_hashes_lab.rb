@@ -19,8 +19,8 @@ end
 
 
 def id_hash_generator(number)
-  jj={
+  id_hash_generator={
     'id'=>number
   }
-  return jj
+  return id_hash_generator
 end
