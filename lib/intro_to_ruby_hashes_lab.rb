@@ -1,15 +1,13 @@
 def new_hash
   new_hash={}
   return new_hash
-end my_hash
-  my_hash{
+end 
+  
+def my_hash
+  my_hash={
     name:=>'levi'
   }
   return my_hash
-end
-
-def my_hash
-
 end
 
 def pioneer
