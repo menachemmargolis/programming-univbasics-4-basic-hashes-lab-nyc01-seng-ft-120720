@@ -5,9 +5,9 @@ end my_hash
   my_hash{
     name:=>'levi'
   }
-  
+
 def my_hash
-  
+
 end
 
 def pioneer
