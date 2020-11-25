@@ -1,8 +1,8 @@
 def new_hash
   new_hash={}
   return new_hash
-end 
-  
+end
+
 def my_hash
   my_hash={
     name:=>'levi'
