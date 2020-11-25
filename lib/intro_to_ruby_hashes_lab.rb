@@ -1,10 +1,13 @@
 def new_hash
   new_hash={}
   return new_hash
-end
-
+end my_hash
+  my_hash{
+    name:=>'levi'
+  }
+  
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  
 end
 
 def pioneer
